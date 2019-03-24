@@ -1,0 +1,3 @@
+﻿  PEAProjectOne.cpp
+d:\studia\peaprojectone\peaprojectone\peaprojectone\peaprojectone.cpp(17): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  PEAProjectOne.vcxproj -> D:\Studia\PEAProjectOne\PEAProjectOne\Debug\PEAProjectOne.exe
